@@ -1,0 +1,61 @@
+item_id,item_name,item_type,item_price,amount_in_stock
+1,Shirt,Clothing,20.99,50
+2,Pants,Clothing,29.99,40
+3,Shoes,Shoes,49.99,30
+4,Hat,Accessories,9.99,60
+5,Socks,Accessories,3.99,70
+6,Dress,Clothing,39.99,20
+7,Jacket,Clothing,59.99,10
+8,Belt,Accessories,14.99,45
+9,Skirt,Clothing,24.99,35
+10,Scarf,Accessories,12.99,55
+11,Jeans,Clothing,34.99,25
+12,Boots,Shoes,69.99,15
+13,Gloves,Accessories,7.99,65
+14,Sweater,Clothing,44.99,5
+15,Sandals,Shoes,19.99,55
+16,Tie,Accessories,8.99,60
+17,Blouse,Clothing,29.99,40
+18,Slippers,Shoes,15.99,50
+19,Hoodie,Clothing,39.99,30
+20,Beanie,Accessories,6.99,70
+21,T-shirt,Clothing,14.99,20
+22,Flats,Shoes,24.99,35
+23,Earrings,Accessories,9.99,45
+24,Shorts,Clothing,19.99,55
+25,Heels,Shoes,39.99,25
+26,Necklace,Accessories,19.99,35
+27,Blazer,Clothing,59.99,15
+28,Flip flops,Shoes,9.99,65
+29,Bow tie,Accessories,5.99,75
+30,Tank top,Clothing,12.99,30
+31,Sneakers,Shoes,34.99,40
+32,Sunglasses,Accessories,14.99,50
+33,Sweatpants,Clothing,24.99,60
+34,Boat shoes,Shoes,29.99,45
+35,Ring,Accessories,7.99,65
+36,Maxi dress,Clothing,49.99,25
+37,Ankle boots,Shoes,44.99,20
+38,Bracelet,Accessories,11.99,55
+39,Cap,Clothing,9.99,60
+40,Sneaker wedges,Shoes,39.99,30
+41,Brooch,Accessories,8.99,70
+42,Cardigan,Clothing,34.99,40
+43,Loafers,Shoes,24.99,50
+44,Watch,Accessories,29.99,35
+45,Jumpsuit,Clothing,39.99,20
+46,Clogs,Shoes,19.99,45
+47,Umbrella,Accessories,12.99,55
+48,Blouse,Clothing,24.99,25
+49,High tops,Shoes,49.99,15
+50,Wallet,Accessories,14.99,65
+51,Culottes,Clothing,34.99,10
+52,Sandals,Shoes,29.99,60
+53,Belt,Accessories,9.99,75
+54,Swimsuit,Clothing,19.99,40
+55,Flats,Shoes,34.99,50
+56,Hair clip,Accessories,6.99,65
+57,Leggings,Clothing,14.99,30
+58,Slip-ons,Shoes,24.99,45
+59,Choker,Accessories,8.99,55
+60,Tunic,Clothing,29.99,20
